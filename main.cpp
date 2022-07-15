@@ -20,9 +20,9 @@ int main() {
         std::cin >> exit_condition;
 
         if(exit_condition != 'y'){
-            std::cout << "Goodbye)";
             break;
         }
     }
+    std::cout << "Goodbye)";
     return 0;
 }
