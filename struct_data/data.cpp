@@ -1,4 +1,3 @@
-#pragma once
 #include "data.h"
 
 namespace kiri {
